@@ -1,4 +1,3 @@
 Runtime: 17 ms
 Memory:	2.18 MB
-
-Improvments: As others implemented, it would be good to perform a search algorithm to look for the second element
+Improvements: As others implemented, it would be good to perform a search algorithm to look for the second element
